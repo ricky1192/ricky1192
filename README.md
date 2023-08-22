@@ -48,6 +48,11 @@ me = RiccardoCosmai()
 me.say_hi()
 ```
 
+<h2>📫 Like to meet me?</h2>
+<p>Pick a slot if you'd like to meet me</p>
+<p><a href="https://calendly.com/cosmai-riccardo4/30-minutes-meeting"><img alt="Calendly" src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white"></a></p>
+
+
 <div>
     <h2>Skills</h2>
     <h3>👨‍💻 Programming and Markup Languages</h3>
