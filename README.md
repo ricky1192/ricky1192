@@ -121,7 +121,7 @@ me.say_hi()
     </p>
 </div>
 
-<h2>Languages used in Github</h2>
+<hr>
 <a href="#"><img align="center" src="https://github-readme-stats-nsalati4m-ricky1192.vercel.app/api/top-langs/?username=ricky1192&layout=pie"/> </a>
 
 <hr>
